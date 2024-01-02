@@ -1,0 +1,30 @@
+.jumbotron {
+    padding: 6rem 1rem;
+    background-color: rgb(113, 226, 113);
+}
+
+#about {
+    background-color: #e2edff;
+}
+
+#galery {
+    background-color: rgb(113, 226, 113);
+}
+
+#contact {
+    background-color: #e2edff;
+}
+
+#ekskul {
+    background-color: #e2edff;
+}
+
+footer {
+    background-color: #02c6c6;
+    ;
+
+}
+
+section {
+    padding-top: 5rem;
+}
